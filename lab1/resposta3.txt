@@ -1,0 +1,3 @@
+versionamento de código é uma técnica que consistente em registrar todas as 
+alterações feitas em arquivos no código fonte de um projeto, é amplamente utilizado
+o git.

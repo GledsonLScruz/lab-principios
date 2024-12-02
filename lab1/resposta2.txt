@@ -1,0 +1,7 @@
+HTML, é usado na estruturação dos sites, é resposável pelo "esqueleto" do site.
+
+CSS, é usado na estilização das páginas web, resposável por adicionar temas, cores, fontes
+e trazer um acabamento estético ao HTML.
+
+JS, é usado para trazer interatividade aos sites, responsável por executar operações
+complexas no navegador, responder a interações do usuário

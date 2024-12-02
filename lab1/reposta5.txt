@@ -1,0 +1,5 @@
+Iria agendar uma ligação, para fazermos um primeiro alinhamento, utilizaria
+o trelo para criar cartões com tarefas a serem desenvolvidas, criaria um 
+repositório no GitHub para o código fonte do projeto, alinharia as branches
+a serem usadas, respeitando o gitFlow, acordaria sobre criação de testes e como
+iria funcionar o deploy.
