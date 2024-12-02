@@ -1,4 +1,4 @@
 O JavaScript é responsável por trazer interatividade aos sites, com ele as páginas
 se tornam dinâmicas, nos dias atuais com todas as evoluções que já tivemos é essencial
 que todo site seja "interagível" para que assim consiga atingir uma maior complexidade
-e suportar os modelos de sistemas mais modernos,
+e suportar os modelos de sistemas mais modernos.
